@@ -3,4 +3,4 @@ vendor/
 *.txt
 composer.lock
 .env
-.phinx.yml
+phinx.yml
