@@ -1,0 +1,20 @@
+rc  libapache2-mod-php7.2                      7.2.5-0ubuntu0.18.04.1                      amd64        server-side, HTML-embedded scripting language (Apache 2 module)
+ri  php-common                                 1:62                                        all          Common files for PHP packages
+ri  php-curl                                   1:7.2+62                                    all          CURL module for PHP [default]
+ri  php-igbinary                               2.0.7-1                                     amd64        igbinary PHP serializer
+ri  php-memcached                              3.0.4+2.2.0-3                               amd64        memcached extension module for PHP, uses libmemcached
+ri  php-msgpack                                2.0.2+0.5.7-5                               amd64        PHP extension for interfacing with MessagePack
+ri  php-mysql                                  1:7.2+62                                    all          MySQL module for PHP [default]
+rc  php-pear                                   1:1.10.5+submodules+notgz-1ubuntu1          all          PEAR Base System
+rc  php7.2-bz2                                 7.2.5-0ubuntu0.18.04.1                      amd64        bzip2 module for PHP
+ii  php7.2-cli                                 7.2.10-0ubuntu1                             amd64        command-line interpreter for the PHP scripting language
+ri  php7.2-common                              7.2.10-0ubuntu1                             amd64        documentation, examples and common module for PHP
+ri  php7.2-curl                                7.2.10-0ubuntu1                             amd64        CURL module for PHP
+ri  php7.2-gd                                  7.2.10-0ubuntu1                             amd64        GD module for PHP
+ri  php7.2-json                                7.2.10-0ubuntu1                             amd64        JSON module for PHP
+ri  php7.2-mbstring                            7.2.10-0ubuntu1                             amd64        MBSTRING module for PHP
+ri  php7.2-mysql                               7.2.10-0ubuntu1                             amd64        MySQL module for PHP
+ri  php7.2-opcache                             7.2.10-0ubuntu1                             amd64        Zend OpCache module for PHP
+ri  php7.2-readline                            7.2.10-0ubuntu1                             amd64        readline module for PHP
+rc  php7.2-xml                                 7.2.10-0ubuntu1                             amd64        DOM, SimpleXML, WDDX, XML, and XSL module for PHP
+ri  php7.2-zip                                 7.2.10-0ubuntu1                             amd64        Zip module for PHP
